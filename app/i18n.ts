@@ -5,7 +5,7 @@ type TranslationTable = Record<"en" | "ar", Record<string, string>>;
 export const fullTranslations: TranslationTable = {
   en: {
     "Motos": "Motorcycles", "Accessoires": "Accessories", "La Maison": "Our House", "Journal": "Journal", "Contact": "Contact",
-    "WhatsApp": "WhatsApp", "Explorer": "Explore", "Visiter": "Visit", "Suivre": "Follow", "Confidentialité": "Privacy", "Conditions": "Terms",
+    "WhatsApp": "WhatsApp", "Explorer": "Explore", "Visiter": "Visit", "Suivre": "Follow",
     "L’excellence moto à Kénitra": "Motorcycle excellence in Kenitra", "L’excellence moto à Kénitra.": "Motorcycle excellence in Kenitra.",
     "Des machines iconiques, choisies pour ceux qui refusent l’ordinaire.": "Iconic machines, selected for those who refuse the ordinary.",
     "Repoussez": "Ride beyond", "les limites.": "limits.", "Explorer les motos": "Explore motorcycles", "Parler à un expert": "Talk to an expert", "DÉFILER POUR DÉCOUVRIR": "SCROLL TO DISCOVER",
@@ -21,7 +21,7 @@ export const fullTranslations: TranslationTable = {
     "04 — Équipement": "04 — Equipment", "Protection.": "Protection.", "Sans compromis.": "Without compromise.", "Tout l’équipement": "View all equipment",
     "La route ne demande pas où vous allez.": "The road does not ask where you are going.", "Elle révèle": "It reveals", "qui vous êtes.": "who you are.", "— La philosophie Motos House": "— The Motos House philosophy",
     "Votre prochaine machine": "Your next machine", "Prêt à ressentir": "Ready to feel", "la différence ?": "the difference?",
-    "Réservez un essai privé à Kénitra. Une machine, une route, votre décision.": "Book a private test ride in Kenitra. One machine, one road, your decision.", "Réserver un essai": "Book a test ride",
+    "Réservez un essai privé à Kénitra. Une machine, une route, votre décision.": "Book a private test ride in Kenitra. One machine, one road, your decision.",
     "Votre prochaine histoire commence ici.": "Your next story starts here.", "Parlons de votre moto": "Let’s talk about your motorcycle", "Machines d’exception. Conseil humain.": "Exceptional machines. Personal advice.", "Contenu de démonstration": "Demo content",
     "Collection de démonstration": "Demo collection", "Choisissez votre": "Choose your", "caractère.": "character.",
     "Sport, roadster ou grand tourisme — trouvez la machine qui partage votre vision de la route.": "Sport, roadster or grand touring — find the machine that shares your vision of the road.",
@@ -68,7 +68,7 @@ export const fullTranslations: TranslationTable = {
   },
   ar: {
     "Motos": "الدراجات", "Accessoires": "الإكسسوارات", "La Maison": "دارنا", "Journal": "المجلة", "Contact": "تواصل معنا",
-    "WhatsApp": "واتساب", "Explorer": "استكشف", "Visiter": "زرنا", "Suivre": "تابعنا", "Confidentialité": "الخصوصية", "Conditions": "الشروط",
+    "WhatsApp": "واتساب", "Explorer": "استكشف", "Visiter": "زرنا", "Suivre": "تابعنا",
     "L’excellence moto à Kénitra": "التميّز في عالم الدراجات بالقنيطرة", "L’excellence moto à Kénitra.": "التميّز في عالم الدراجات بالقنيطرة.",
     "Repoussez": "تجاوز", "les limites.": "الحدود.", "Des machines iconiques, choisies pour ceux qui refusent l’ordinaire.": "دراجات استثنائية مختارة لمن يرفضون المألوف.", "Explorer les motos": "اكتشف الدراجات", "Parler à un expert": "تحدث مع خبير", "DÉFILER POUR DÉCOUVRIR": "مرّر للاكتشاف",
     "01 — Notre philosophie": "01 — فلسفتنا", "Plus qu’une moto.": "أكثر من مجرد دراجة.", "Une extension de vous.": "امتداد لشخصيتك.",
@@ -80,7 +80,7 @@ export const fullTranslations: TranslationTable = {
     "Années de passion": "سنوات من الشغف", "Pilotes accompagnés": "راكب تمت مواكبته", "Marques partenaires": "علامة شريكة", "Note communauté": "تقييم المجتمع",
     "04 — Équipement": "04 — التجهيزات", "Protection.": "حماية.", "Sans compromis.": "بلا تنازلات.", "Tout l’équipement": "كل التجهيزات",
     "La route ne demande pas où vous allez.": "الطريق لا يسألك إلى أين تتجه.", "Elle révèle": "بل يكشف", "qui vous êtes.": "من تكون.", "— La philosophie Motos House": "— فلسفة موتوس هاوس",
-    "Votre prochaine machine": "دراجتك القادمة", "Prêt à ressentir": "هل أنت مستعد لتشعر", "la différence ?": "بالفرق؟", "Réservez un essai privé à Kénitra. Une machine, une route, votre décision.": "احجز تجربة قيادة خاصة بالقنيطرة. دراجة واحدة، طريق واحد، والقرار لك.", "Réserver un essai": "احجز تجربة قيادة",
+    "Votre prochaine machine": "دراجتك القادمة", "Prêt à ressentir": "هل أنت مستعد لتشعر", "la différence ?": "بالفرق؟", "Réservez un essai privé à Kénitra. Une machine, une route, votre décision.": "احجز تجربة قيادة خاصة بالقنيطرة. دراجة واحدة، طريق واحد، والقرار لك.",
     "Votre prochaine histoire commence ici.": "قصتك القادمة تبدأ هنا.", "Parlons de votre moto": "لنتحدث عن دراجتك", "Machines d’exception. Conseil humain.": "دراجات استثنائية. استشارة إنسانية.", "Contenu de démonstration": "محتوى تجريبي",
     "Collection de démonstration": "مجموعة تجريبية", "Choisissez votre": "اختر", "caractère.": "شخصيتك.", "Sport, roadster ou grand tourisme — trouvez la machine qui partage votre vision de la route.": "رياضية أو رودستر أو للرحلات الطويلة — اعثر على الدراجة التي تشاركك رؤيتك للطريق.",
     "Contenu placeholder": "محتوى مؤقت", "Les modèles, caractéristiques, prix et disponibilités seront remplacés par le catalogue réel de Motos House.": "سيتم استبدال النماذج والمواصفات والأسعار والتوفر بالكتالوج الحقيقي لموتوس هاوس.",
